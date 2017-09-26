@@ -1,4 +1,4 @@
-# larevel-permission-script
+# laravel-permission-script
 Just to correct laravel permissions
 
  Step-1: 
